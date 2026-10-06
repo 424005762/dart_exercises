@@ -1,5 +1,6 @@
-name: my_project
-description: A Dart project
+name: dart_exercises
+description: This project demonstrates Dart variables, data types,
+operators, comparison operators, and program output.
 version: 1.0.0
 
 environment:
