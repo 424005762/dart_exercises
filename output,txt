@@ -1,0 +1,10 @@
+Customer name: Mica
+Customer is a member: true
+Quantity purchased: 3
+Price per item: 50.5
+Total price: 151.5
+Remaining money: 48.5
+Items that can be bought with 200 pesos: 66
+Remainder after division: 2
+Can the customer afford the purchase? true
+Is the total price not zero? true
